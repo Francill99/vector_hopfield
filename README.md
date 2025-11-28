@@ -1,5 +1,7 @@
 # Vector Hopfield Model
 
+[![arXiv](https://img.shields.io/badge/arXiv-2507.02586-b31b1b.svg)](https://arxiv.org/abs/2507.02586)
+
 ## Models
 
 ### VectorHopfield
