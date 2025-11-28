@@ -1,6 +1,8 @@
 # Vector Hopfield Model
 
-Code to replicate results in paper "Statistical mechanics of vector Hopfield network near and above saturation" [![arXiv](https://img.shields.io/badge/arXiv-2507.02586-b31b1b.svg)](https://arxiv.org/abs/2507.02586)
+Code to replicate results in paper 
+
+**Statistical mechanics of vector Hopfield network near and above saturation** [![arXiv](https://img.shields.io/badge/arXiv-2507.02586-b31b1b.svg)](https://arxiv.org/abs/2507.02586)
 
 Authors: *Flavio Nicoletti, Francesco D'Amico, Matteo Negri*
 
